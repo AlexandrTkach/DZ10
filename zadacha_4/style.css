@@ -1,0 +1,19 @@
+head {
+    background: #c6a664;
+}
+
+body {
+    background-image: url(fon-sayta.jpg);
+}
+
+form {
+    margin: auto;
+    background: #a47c45;
+    width: 270px;
+}
+
+#vivod {
+    margin: auto;
+    width: 550px;
+    background: #ffffff;
+}
